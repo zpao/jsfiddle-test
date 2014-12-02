@@ -1,0 +1,12 @@
+name: React Base Fiddle (JSX)
+description: Starting point for creating JSFiddles with React. This uses React with Addons.
+authors:
+  - Vjeux
+  - Paul O’Shannessy
+resources:
+  - http://fb.me/JSXTransformer-0.12.1.js
+  - http://fb.me/react-0.12.1.js
+normalize_css: no
+wrap: b
+panel_js: 2
+panel_css: 1
