@@ -5,3 +5,4 @@ authors:
   - Paul O’Shannessy
 resources:
 normalize_css: no
+lang_js: JavaScript 1.7
