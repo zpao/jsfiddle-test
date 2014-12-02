@@ -6,5 +6,5 @@ authors:
   - Paul O’Shannessy
 resources:
 normalize_css: no
-panel_js: 2
+lang_js: JavaScript 1.7
 ...
